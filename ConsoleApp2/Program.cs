@@ -6,7 +6,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-           /* double meal_cost = 100;
+            /*
+            double meal_cost = 100;
             int tip_percent = 15;
             int tax_percent = 8;
            
